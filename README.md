@@ -1,2 +1,2 @@
-# SO1
-Software 1 de Sistemas Operativos
+# SO2
+Software 2 de Sistemas Operativos
